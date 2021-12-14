@@ -17,7 +17,7 @@ export default function Home() {
           </Link>
           Test{' '}
           <Link href="/tests/test">
-            <a>test page!</a>
+            <a>Image page!</a>
           </Link>
         </h1>
 
